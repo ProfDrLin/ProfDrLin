@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProfDrLin
+- 👋 Hi, I’m @Yakuza
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning javascript, typescript, html, tailwind css
 - 💞️ I’m looking to collaborate on myself
